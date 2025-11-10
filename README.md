@@ -304,5 +304,3 @@ Response: `{ success: true, message: "登録が完了しました", data: { oid:
 - Firestore ルールの厳格化
 - パスワード処理の再設計（サーバ側ハッシュ化 or Firebase Auth の統合の徹底）
 - E2E テストとセキュリティ監査
-
-必要であれば、このドキュメントを英語版に翻訳したり、OpenAPI（Swagger）風の仕様に落とし込むこともできます。ご希望あれば続けます。
